@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Working on dc.gg, released the august 5th. Almost 2000 users ! 🍾<br>🌱 Currently learning angular framework with ionic :) <br>💬 2 years Typescript Developer 🟦
+🔭 Working on dc.gg, released the august 5th of 2023. Almost 2000 users ! 🍾<br>🌱 Currently learning angular framework with ionic :) <br>💬 2 years Typescript Developer 🟦
 
 
 ## 🌐 Socials:
